@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 2em;
+}
+
+.container h1 {
+    display: flex;
+    justify-content: space-between ;
+    margin-bottom: 2em;
+}
+
+.container span {
+    margin-left: 2em;
+    font-weight: bold;
+    background: #222;
+    color: #FfBb33;
+    padding: 0.5em;
+}
+

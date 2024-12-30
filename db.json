@@ -1,0 +1,63 @@
+{
+  "projects": [
+    {
+      "id": "d57d",
+      "nomeProjeto": "Projeto de Pc Gamer",
+      "precoProjeto": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "costs": 6600,
+      "services": [
+        {
+          "name": "Placa mãe",
+          "costs": "600",
+          "description": "Comprar placa-mãe, em qualquer loja de periféricos",
+          "id": "97bae167-4e14-4e0e-a30e-5417679e3685"
+        },
+        {
+          "name": "Serviço 11",
+          "costs": "4000",
+          "description": "Serviço daorasso",
+          "id": "97bae21223-4e14-4e0e-a30e-5417679e3685"
+        },
+        {
+          "name": "Serviço 4",
+          "costs": "2000",
+          "description": "Serviço daora Bora bill",
+          "id": "b4e9fabf-f67f-4ea4-a550-96a0df4f9b79"
+        }
+      ]
+    },
+    {
+      "id": "8f7b",
+      "nomeProjeto": "Projeto Muito Maneiro",
+      "precoProjeto": "100000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
